@@ -261,6 +261,10 @@ hr{
         
     }
 
+    .navlogo{
+        margin: 20px;
+    }
+
     .list-item{
         margin: 25px;
     }
